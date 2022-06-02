@@ -1,0 +1,6 @@
+directories:
+  process:
+    - E:/Workspace/sensors/data
+    - E:/Workspace/sensors/data2
+  treated: E:/Workspace/sensors/treated
+  archive: E:/Workspace/sensors/archive
